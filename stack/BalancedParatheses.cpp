@@ -105,6 +105,7 @@ int main(){
 	right.print();
 	if(left.isEmpty() && right.isEmpty()){
 	cout <<"the parentheses are balanced";
+	
 	}else{
 		cout <<"the parentheses are not balanced";
 	}

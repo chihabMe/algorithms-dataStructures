@@ -106,6 +106,8 @@ int main()
     list.insert(665, 2);
     list.print();
     std::cout << "removeing " << std::endl;
-    list.remove(2);
+    list.remove(0);
+    list.remove(0);
+
     list.print();
 }
